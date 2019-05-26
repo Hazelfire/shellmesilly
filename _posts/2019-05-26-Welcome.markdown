@@ -15,7 +15,7 @@ That means:
   - No Mouse
   - No Graphical Browsers
 
-![Screenshot of me getting Jekyll working](/assets/jekyllshot.png)
+![Screenshot of me getting Jekyll working](/shellmesilly/assets/jekyllshot.png)
 
 All text based (except for framebuffer image viewers).
 
