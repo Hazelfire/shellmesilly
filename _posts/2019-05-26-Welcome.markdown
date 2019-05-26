@@ -15,6 +15,8 @@ That means:
   - No Mouse
   - No Graphical Browsers
 
+![Screenshot of me getting Jekyll working](/assets/jekyllshot.png)
+
 All text based (except for framebuffer image viewers).
 
 Now the right question to ask here would be **WHY**? And to be honest,
