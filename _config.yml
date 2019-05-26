@@ -17,8 +17,8 @@ title: Shellmesilly
 email: sam@hazelfire.org
 description: >- # this means to ignore newlines until "baseurl:"
   A blog on fun computer stuff, such as using shells for everything
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/shellmesilly" # the subpath of your site, e.g. /blog
+url: "http://samnolan.me" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Hazelfire
 
 # Build settings
